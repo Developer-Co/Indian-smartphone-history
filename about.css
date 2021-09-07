@@ -55,6 +55,9 @@ nav{
 
 /* --------------------------  section css  -------------------------------- */
 
+body{
+    background: rgb(0, 204, 255);
+}
 .heading {
     margin-top: 1.5rem;
 }
